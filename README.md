@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ZiJie
+- 👋 Hi, I’m zJay
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning coding
 
